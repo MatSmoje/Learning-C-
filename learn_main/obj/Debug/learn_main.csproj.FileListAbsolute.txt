@@ -1,0 +1,8 @@
+C:\Users\matia\Desktop\C#\Curso\learn_main\learn_main\bin\Debug\learn_main.exe.config
+C:\Users\matia\Desktop\C#\Curso\learn_main\learn_main\bin\Debug\learn_main.exe
+C:\Users\matia\Desktop\C#\Curso\learn_main\learn_main\bin\Debug\learn_main.pdb
+C:\Users\matia\Desktop\C#\Curso\learn_main\learn_main\obj\Debug\learn_main.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\C#\Curso\learn_main\learn_main\obj\Debug\learn_main.csproj.SuggestedBindingRedirects.cache
+C:\Users\matia\Desktop\C#\Curso\learn_main\learn_main\obj\Debug\learn_main.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\C#\Curso\learn_main\learn_main\obj\Debug\learn_main.exe
+C:\Users\matia\Desktop\C#\Curso\learn_main\learn_main\obj\Debug\learn_main.pdb
